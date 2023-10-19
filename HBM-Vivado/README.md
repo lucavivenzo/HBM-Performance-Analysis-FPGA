@@ -20,7 +20,7 @@ This section of the repository focuses on the Vivado design flow used in the MSc
 
 - **constraints.xdc**: The Xilinx Design Constraints (XDC) file that specifies the constraints for the design, ensuring proper signal routing and timing considerations.
 
-- **design_wrapper**: The design wrapper file that encapsulates the entire design.
+- **design_1_wrapper.v**: The design wrapper file that encapsulates the entire design.
 
 - **block_design.pdf**: This PDF file contains the final block design, providing a visual representation of the design architecture within Vivado.
 
