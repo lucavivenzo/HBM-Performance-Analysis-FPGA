@@ -27,16 +27,6 @@ The repository is organized into two main folders, each representing one of the 
 
 2. **HBM-Vivado**: In this folder, you will find the code and associated files developed using the Vivado design flow.
 
-### Key Files and Resources
-
-#### HBM-Vitis
-
-
-
-#### HBM-Vivado
-
-
-
 ## Getting Started
 
 Refer to the README files within the specific folders for setup and usage instructions. Follow the provided guidelines for building and running the applications.
