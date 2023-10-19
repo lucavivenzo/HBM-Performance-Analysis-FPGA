@@ -4,9 +4,11 @@
 
 This repository contains the research work conducted for the MSc thesis titled "Performance Analysis of HBM Memory on Reconfigurable Devices Using Different Design Flows." The objective of this thesis was to compare the performance of two prominent design flows, Vivado and Vitis Accel, when developing an application that utilizes the High Bandwidth Memory (HBM) featured on the Xilinx Alveo U280 FPGA.
 
+For more information about the two parts of the work, please refer to the README files included in the two subfolders.
+
 ## Research Focus
 
-The primary focus of this research was to evaluate the performance and efficiency of HBM memory utilization in the context of FPGA-based reconfigurable devices. The study aimed to assess the two primary design flows provided by Xilinx, namely Vivado and Vitis Accel TOGLIERE DA QUA A FINE PERIODO?, in the development of a simple application capable of reading/writing data from/to the HBM memory.
+The primary focus of this research was to evaluate the performance and efficiency of HBM memory utilization in the context of FPGA-based reconfigurable devices. The study aimed to assess the two primary design flows provided by Xilinx, namely Vivado and Vitis Accel.
 
 In particular, The objectives of this work were:
 
@@ -37,9 +39,4 @@ The repository is organized into two main folders, each representing one of the 
 
 ## Getting Started
 
-If you intend to explore the code or replicate the experiments conducted in this research, the following steps are recommended:
-
-1. Choose the appropriate design flow folder (HBM-Vitis or HBM-Vivado) based on your interest.
-2. Refer to the README files within the specific folders for setup and usage instructions.
-3. Install the necessary development tools (Vivado or Vitis) based on your choice.
-4. Follow the provided guidelines for building and running the applications.
+Refer to the README files within the specific folders for setup and usage instructions. Follow the provided guidelines for building and running the applications.
