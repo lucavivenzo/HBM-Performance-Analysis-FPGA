@@ -42,10 +42,6 @@ The code for transaction initiation is straightforward. Depending on the value o
 
 ### Host Program
 
-Certainly! Here's a summarized version of the text to be added to the "Host Program" section of the README:
-
-### Host Program
-
 The Host program utilizes the OpenCL API to launch and manage kernel runs on the FPGA. The process involves several steps:
 
 1. **Context Creation**: Create a Context instance, which includes the OpenCL device connected to the host system.
