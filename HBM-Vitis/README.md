@@ -60,10 +60,6 @@ The Host program utilizes the OpenCL API to launch and manage kernel runs on the
 
 ### Configuration File
 
-Certainly! Here's a summarized version of the text to be added to the "Configuration File" section of the README:
-
-### Configuration File
-
 The Configuration File specifies various settings for the implementation design of the application:
 
 - **nk Parameter**: Determines the number of instances of a kernel to be synthesized on the board. In this case, 32 instances were chosen.
